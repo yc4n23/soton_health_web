@@ -1,0 +1,4 @@
+{
+  "appService.defaultWebAppToDeploy": "undefined/subscriptions/3b135e6b-483d-40d0-9132-94cf1188cb0e/resourceGroups/g3webcw2/providers/Microsoft.Web/sites/g3webcw",
+  "appService.deploySubpath": "."
+}
